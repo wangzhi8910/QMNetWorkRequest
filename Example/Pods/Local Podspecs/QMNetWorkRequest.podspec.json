@@ -20,6 +20,9 @@
   },
   "source_files": "QMNetWorkRequest/Classes/**/*",
   "swift_versions": "4.0",
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES"
+  },
   "dependencies": {
     "YTKNetwork": [
       "~> 2.1.4"

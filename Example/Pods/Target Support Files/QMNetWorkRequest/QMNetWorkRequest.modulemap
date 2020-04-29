@@ -1,4 +1,4 @@
-module QMNetWorkRequest {
+framework module QMNetWorkRequest {
   umbrella header "QMNetWorkRequest-umbrella.h"
 
   export *

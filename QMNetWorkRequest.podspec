@@ -32,6 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'QMNetWorkRequest/Classes/**/*'
   s.swift_version = '4.0'
+  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   s.dependency 'YTKNetwork', '~> 2.1.4'
   
   

@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1901DAA8C78821EF6ADBDE65 /* libPods-QMNetWorkRequest_Example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F75F32FA7D96C85799824AD3 /* libPods-QMNetWorkRequest_Example.a */; };
+		575ACBF66783B3A7041E5A75 /* Pods_QMNetWorkRequest_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F67EDE9A3E8A30E49B70E718 /* Pods_QMNetWorkRequest_Example.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		BF5CD537074C97B15B615649 /* Pods_QMNetWorkRequest_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49A003017273EF645AC2EA73 /* Pods_QMNetWorkRequest_Tests.framework */; };
 		C71C21C124596AF9009666AE /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = C71C21C024596AF9009666AE /* Test.m */; };
-		CDFF6CB83407933A7C6F3153 /* libPods-QMNetWorkRequest_Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6324D2B3B09AA389A8675B35 /* libPods-QMNetWorkRequest_Tests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		2D5D87A2311F73B75C74977B /* Pods-QMNetWorkRequest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QMNetWorkRequest_Tests.debug.xcconfig"; path = "Target Support Files/Pods-QMNetWorkRequest_Tests/Pods-QMNetWorkRequest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		49A003017273EF645AC2EA73 /* Pods_QMNetWorkRequest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QMNetWorkRequest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* QMNetWorkRequest_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QMNetWorkRequest_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -40,7 +41,6 @@
 		607FACE51AFB9204008FA782 /* QMNetWorkRequest_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QMNetWorkRequest_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6324D2B3B09AA389A8675B35 /* libPods-QMNetWorkRequest_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-QMNetWorkRequest_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		79B76C1E5E3DEDD9AA48CA57 /* Pods-QMNetWorkRequest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QMNetWorkRequest_Example.release.xcconfig"; path = "Target Support Files/Pods-QMNetWorkRequest_Example/Pods-QMNetWorkRequest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8D6F8115CB6E21B505E81609 /* Pods-QMNetWorkRequest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QMNetWorkRequest_Tests.release.xcconfig"; path = "Target Support Files/Pods-QMNetWorkRequest_Tests/Pods-QMNetWorkRequest_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		92B278C6C940F4421442E0FF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		C71C21C024596AF9009666AE /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 		D78367949069ABFE171C2CEC /* Pods-QMNetWorkRequest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QMNetWorkRequest_Example.debug.xcconfig"; path = "Target Support Files/Pods-QMNetWorkRequest_Example/Pods-QMNetWorkRequest_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F2415DA8045DB62D8C4616D4 /* QMNetWorkRequest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = QMNetWorkRequest.podspec; path = ../QMNetWorkRequest.podspec; sourceTree = "<group>"; };
-		F75F32FA7D96C85799824AD3 /* libPods-QMNetWorkRequest_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-QMNetWorkRequest_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F67EDE9A3E8A30E49B70E718 /* Pods_QMNetWorkRequest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QMNetWorkRequest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1901DAA8C78821EF6ADBDE65 /* libPods-QMNetWorkRequest_Example.a in Frameworks */,
+				575ACBF66783B3A7041E5A75 /* Pods_QMNetWorkRequest_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,7 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDFF6CB83407933A7C6F3153 /* libPods-QMNetWorkRequest_Tests.a in Frameworks */,
+				BF5CD537074C97B15B615649 /* Pods_QMNetWorkRequest_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,8 +160,8 @@
 		EF76C331D4EBA55A0B574B35 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F75F32FA7D96C85799824AD3 /* libPods-QMNetWorkRequest_Example.a */,
-				6324D2B3B09AA389A8675B35 /* libPods-QMNetWorkRequest_Tests.a */,
+				F67EDE9A3E8A30E49B70E718 /* Pods_QMNetWorkRequest_Example.framework */,
+				49A003017273EF645AC2EA73 /* Pods_QMNetWorkRequest_Tests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -177,6 +177,7 @@
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
+				A403B44E10706EEBFEBC6103 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -310,6 +311,28 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A403B44E10706EEBFEBC6103 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-QMNetWorkRequest_Example/Pods-QMNetWorkRequest_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${BUILT_PRODUCTS_DIR}/QMNetWorkRequest/QMNetWorkRequest.framework",
+				"${BUILT_PRODUCTS_DIR}/YTKNetwork/YTKNetwork.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/QMNetWorkRequest.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YTKNetwork.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-QMNetWorkRequest_Example/Pods-QMNetWorkRequest_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
