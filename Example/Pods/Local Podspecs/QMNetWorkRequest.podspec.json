@@ -19,9 +19,11 @@
     "ios": "9.0"
   },
   "source_files": "QMNetWorkRequest/Classes/**/*",
+  "swift_versions": "4.0",
   "dependencies": {
     "YTKNetwork": [
       "~> 2.1.4"
     ]
-  }
+  },
+  "swift_version": "4.0"
 }
