@@ -1,0 +1,6 @@
+framework module QMNetWorkRequest {
+  umbrella header "QMNetWorkRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}
