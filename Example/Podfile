@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QMNetWorkRequest_Example' do
+  pod 'QMNetWorkRequest', :path => '../'
+
+  target 'QMNetWorkRequest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
