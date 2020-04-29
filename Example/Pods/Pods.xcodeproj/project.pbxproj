@@ -34,14 +34,14 @@
 		66DBC25CE50D0E67F015AF878D51512B /* AFNetworking-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E5A1C1912E64BE4B5C15BA22B95ACD31 /* AFNetworking-dummy.m */; };
 		6827BF40240030D07AAD680341FBFDDF /* YTKNetwork.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FB96A3F572D52703BBB2466351048A3 /* YTKNetwork.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7000F789B1466AB101EAAEFF0DE2A501 /* YTKNetworkPrivate.m in Sources */ = {isa = PBXBuildFile; fileRef = 443F6B3D909EB26A52C41C09F37B6C4C /* YTKNetworkPrivate.m */; };
-		7676E81552B39D9444B07F2177FD7F5F /* QMNetWorkRequest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E40DCE5522E1134F5E20AAA947C57AB9 /* QMNetWorkRequest-dummy.m */; };
+		7676E81552B39D9444B07F2177FD7F5F /* QMNetWorkRequest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 05F9E7B5FF1FAE9DBAB1BAD8D0CF80A6 /* QMNetWorkRequest-dummy.m */; };
 		7F95FD26230596C55D9392AD21E43353 /* YTKNetworkAgent.m in Sources */ = {isa = PBXBuildFile; fileRef = 94196E0B213DCB096A569B93AF71D440 /* YTKNetworkAgent.m */; };
 		855E574BC198E90B1E53B4FFA3F5545F /* YTKNetworkAgent.h in Headers */ = {isa = PBXBuildFile; fileRef = 3C36A8933D4D09B6A75E130F4946700E /* YTKNetworkAgent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		886A3E9DD91C94BAED7C9146695420F2 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7EC510557CBEEE606BC081986CF6A75E /* SystemConfiguration.framework */; };
 		8A56AC266DF2CFF06095398DB8190732 /* YTKChainRequestAgent.h in Headers */ = {isa = PBXBuildFile; fileRef = F154A0F6444361C91BC833F9566325F9 /* YTKChainRequestAgent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		902D3AC77A4A0EC157689DE43D067594 /* AFCompatibilityMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 13CC58D145013335725CA8283CE9AA3B /* AFCompatibilityMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		94CBFB71BD134F866EE6BE2A8F2E0539 /* QMNetWorkRequest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C97DDA8A62DB84C6C3C0615FDA0E99CF /* QMNetWorkRequest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		970D9162A614F8872297AF709AAFEAE1 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = C561D35A7FAC2F7532CB323A5F5527E5 /* ReplaceMe.swift */; };
+		94CBFB71BD134F866EE6BE2A8F2E0539 /* QMNetWorkRequest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5A7D9E736423C31175A3FCF27B299DC0 /* QMNetWorkRequest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		970D9162A614F8872297AF709AAFEAE1 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7870FF8BC3DF11FD19C6CF21213C2474 /* ReplaceMe.swift */; };
 		99637F4ECADFB700C9E882EAC30BFFF7 /* YTKNetworkPrivate.h in Headers */ = {isa = PBXBuildFile; fileRef = 38796A6B517CE1E3922C8A7642615B5C /* YTKNetworkPrivate.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		9A6EBD5F6FA5230DF4F2012CFD9D92F7 /* YTKNetworkConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F8367CAD17E79B4A63F04EBE2DF01C /* YTKNetworkConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9AD05423220DC573824E31481240FBE0 /* YTKNetwork-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 536BE6A752B5A6C5D8FA7BDBACFADAA9 /* YTKNetwork-dummy.m */; };
@@ -112,11 +112,11 @@
 /* Begin PBXFileReference section */
 		01D67C7574E7ECF423756F45919B62E3 /* YTKNetwork.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = YTKNetwork.release.xcconfig; sourceTree = "<group>"; };
 		027FC89304E2FE10D6DAC291C38C3DE9 /* Pods-QMNetWorkRequest_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-QMNetWorkRequest_Tests-umbrella.h"; sourceTree = "<group>"; };
+		05F9E7B5FF1FAE9DBAB1BAD8D0CF80A6 /* QMNetWorkRequest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QMNetWorkRequest-dummy.m"; sourceTree = "<group>"; };
 		079E8BBB0649DA11251DAF5E1F770BAF /* Pods-QMNetWorkRequest_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-QMNetWorkRequest_Example-umbrella.h"; sourceTree = "<group>"; };
 		0AB21E998E7F45B096F8C10D73B0878E /* AFSecurityPolicy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFSecurityPolicy.m; path = AFNetworking/AFSecurityPolicy.m; sourceTree = "<group>"; };
 		0BCE6F956240657E5EEB31B887AE6A4C /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFHTTPSessionManager.m; path = AFNetworking/AFHTTPSessionManager.m; sourceTree = "<group>"; };
 		0F6723EAFF01F82BA48EF3FB6670EA6D /* Pods-QMNetWorkRequest_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-QMNetWorkRequest_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		0F9F0E10142B04E4573F300DAA89F67F /* QMNetWorkRequest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = QMNetWorkRequest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		0FAAE98D1B57931BBA16F95699BDC493 /* AFURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLSessionManager.h; path = AFNetworking/AFURLSessionManager.h; sourceTree = "<group>"; };
 		10CBDAD9421EDD8448E2708044622932 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = "<group>"; };
 		13CC58D145013335725CA8283CE9AA3B /* AFCompatibilityMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFCompatibilityMacros.h; path = AFNetworking/AFCompatibilityMacros.h; sourceTree = "<group>"; };
@@ -140,57 +140,56 @@
 		45462CFD550510D90EF0700C829CDB54 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/MobileCoreServices.framework; sourceTree = DEVELOPER_DIR; };
 		4C5705C6EDD2B03C90211E681375BBB6 /* YTKBaseRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YTKBaseRequest.h; path = YTKNetwork/YTKBaseRequest.h; sourceTree = "<group>"; };
 		4C59AF329EC07A7976DA566631EACB6D /* AFNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AFNetworking-Info.plist"; sourceTree = "<group>"; };
-		4F50E26C6866DE3666A12920B2E08D29 /* QMNetWorkRequest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QMNetWorkRequest.release.xcconfig; sourceTree = "<group>"; };
+		52367D6A46F21AB55B43B3C0150AFEA5 /* QMNetWorkRequest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QMNetWorkRequest.debug.xcconfig; sourceTree = "<group>"; };
 		536BE6A752B5A6C5D8FA7BDBACFADAA9 /* YTKNetwork-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "YTKNetwork-dummy.m"; sourceTree = "<group>"; };
 		5438FA4BB6AB0EF604FEEEB636AD5887 /* Pods-QMNetWorkRequest_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-QMNetWorkRequest_Example-frameworks.sh"; sourceTree = "<group>"; };
-		56F2C3000087CC9BB6E96C42701B9041 /* Pods_QMNetWorkRequest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_QMNetWorkRequest_Example.framework; path = "Pods-QMNetWorkRequest_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		56F2C3000087CC9BB6E96C42701B9041 /* Pods_QMNetWorkRequest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QMNetWorkRequest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		59D13348E1E15CE7836A1718D6454955 /* YTKBaseRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YTKBaseRequest.m; path = YTKNetwork/YTKBaseRequest.m; sourceTree = "<group>"; };
-		5B997865831D636E9501212BD1CD3556 /* QMNetWorkRequest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QMNetWorkRequest.debug.xcconfig; sourceTree = "<group>"; };
-		5BBB90D2DF32EC1A1C2DD07F154CFF8D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		5A0728CE9CBF5153A307AF8B0A864D01 /* QMNetWorkRequest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = QMNetWorkRequest.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		5A7D9E736423C31175A3FCF27B299DC0 /* QMNetWorkRequest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QMNetWorkRequest-umbrella.h"; sourceTree = "<group>"; };
 		5D06612ECB41B14D311237E632F5136B /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLRequestSerialization.m; path = AFNetworking/AFURLRequestSerialization.m; sourceTree = "<group>"; };
 		5E88FB0902B47FD00F36CCB5FF70A945 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = "<group>"; };
-		601EEA66C9A6080A11C1ADE5E2A91AE1 /* YTKNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = YTKNetwork.framework; path = YTKNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		601EEA66C9A6080A11C1ADE5E2A91AE1 /* YTKNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YTKNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DB301598672436988AE4B558EA06EB7 /* QMNetWorkRequest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QMNetWorkRequest.release.xcconfig; sourceTree = "<group>"; };
 		6EB4990393EE3A4EAE7DFE1A512B2782 /* Pods-QMNetWorkRequest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-QMNetWorkRequest_Tests.modulemap"; sourceTree = "<group>"; };
 		70EB57F80666E7FCD47E1ED7417D84AE /* Pods-QMNetWorkRequest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-QMNetWorkRequest_Tests-dummy.m"; sourceTree = "<group>"; };
 		76A4B8B3922AD4377A297328503D19C7 /* YTKRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YTKRequest.h; path = YTKNetwork/YTKRequest.h; sourceTree = "<group>"; };
+		7870FF8BC3DF11FD19C6CF21213C2474 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = QMNetWorkRequest/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		7BE3541F1593663D1AD0A6C2150250E2 /* QMNetWorkRequest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = QMNetWorkRequest.modulemap; sourceTree = "<group>"; };
 		7D2C8AAF13A6457DE7F2981CEEC2BCCA /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkReachabilityManager.m; path = AFNetworking/AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
 		7EC510557CBEEE606BC081986CF6A75E /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 		847957F277D0C43E7FADF6836B5241DD /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
-		84B3CC97FCE9C3B4C18ADF8463110D9A /* QMNetWorkRequest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = QMNetWorkRequest.framework; path = QMNetWorkRequest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		84B3CC97FCE9C3B4C18ADF8463110D9A /* QMNetWorkRequest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = QMNetWorkRequest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		931454FF3819B01E080C8D5FD41D4BDE /* Pods-QMNetWorkRequest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QMNetWorkRequest_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		94196E0B213DCB096A569B93AF71D440 /* YTKNetworkAgent.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YTKNetworkAgent.m; path = YTKNetwork/YTKNetworkAgent.m; sourceTree = "<group>"; };
 		995AEB719F53443056B8BE5A9DC0DAC1 /* Pods-QMNetWorkRequest_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-QMNetWorkRequest_Example-dummy.m"; sourceTree = "<group>"; };
 		9D66C5AE350139D4844B58D29479AE6F /* YTKBatchRequestAgent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YTKBatchRequestAgent.h; path = YTKNetwork/YTKBatchRequestAgent.h; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E1F2CEBFD21E84AFF13A9AC2A57898A /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = AFNetworking/AFURLResponseSerialization.h; sourceTree = "<group>"; };
 		A082232D2195477366C84E51A89D173F /* Pods-QMNetWorkRequest_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-QMNetWorkRequest_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		A4FA15D44DF6BAC7550EDEED10862AA3 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AFNetworking.framework; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A2F3E44A236F6B38F2B13642C55B31A1 /* QMNetWorkRequest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "QMNetWorkRequest-Info.plist"; sourceTree = "<group>"; };
+		A4FA15D44DF6BAC7550EDEED10862AA3 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6E9CE0C17D84C5A997CD03657F35B33 /* YTKNetwork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YTKNetwork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACBCF0B458D8930EE04C34CC4DD87835 /* Pods-QMNetWorkRequest_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-QMNetWorkRequest_Example.modulemap"; sourceTree = "<group>"; };
 		B52122E75A8C9F8900433B51FCF5EAF8 /* AFNetworking.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.release.xcconfig; sourceTree = "<group>"; };
 		BA775680536C98040D2A70C79BB59F06 /* YTKNetworkConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YTKNetworkConfig.m; path = YTKNetwork/YTKNetworkConfig.m; sourceTree = "<group>"; };
 		BF442CAFA25762693BC1CF702E02ECEA /* Pods-QMNetWorkRequest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-QMNetWorkRequest_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C1E2864481FA1B69BA50AF0EFF34812C /* Pods_QMNetWorkRequest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_QMNetWorkRequest_Tests.framework; path = "Pods-QMNetWorkRequest_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1E2864481FA1B69BA50AF0EFF34812C /* Pods_QMNetWorkRequest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QMNetWorkRequest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C40DC5F83FEC3566CC736216E45133F8 /* YTKNetwork-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "YTKNetwork-Info.plist"; sourceTree = "<group>"; };
 		C4EA9607ED86339B9EC46630F9D64C43 /* Pods-QMNetWorkRequest_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-QMNetWorkRequest_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		C561D35A7FAC2F7532CB323A5F5527E5 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = QMNetWorkRequest/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		C6FC65485C373E83283EF3C27610CA07 /* YTKNetwork-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YTKNetwork-umbrella.h"; sourceTree = "<group>"; };
-		C97DDA8A62DB84C6C3C0615FDA0E99CF /* QMNetWorkRequest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QMNetWorkRequest-umbrella.h"; sourceTree = "<group>"; };
-		CA33660D1DB304F482D6BFFEF5D3EEBA /* QMNetWorkRequest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "QMNetWorkRequest-Info.plist"; sourceTree = "<group>"; };
 		CD415AB5E6821F8F90B6EB038FB2EB0D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CE42622A6BB898167F2ED69C3A6242DB /* YTKBatchRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YTKBatchRequest.h; path = YTKNetwork/YTKBatchRequest.h; sourceTree = "<group>"; };
-		CFF3351A159FF31A9F8DF5C05656C078 /* QMNetWorkRequest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QMNetWorkRequest-prefix.pch"; sourceTree = "<group>"; };
-		D1A139551706F66FA616428CF296467B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		D2B97C461D0FD9D7F3F4A0BA83AC66AA /* YTKBatchRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YTKBatchRequest.m; path = YTKNetwork/YTKBatchRequest.m; sourceTree = "<group>"; };
 		D581FA3B36B5CB7157CBDFEEF1EB1109 /* YTKRequest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = YTKRequest.m; path = YTKNetwork/YTKRequest.m; sourceTree = "<group>"; };
 		D864FD084FA99E7B54666C6E24F35E29 /* YTKNetwork-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "YTKNetwork-prefix.pch"; sourceTree = "<group>"; };
 		D8DD7975CDA4CAEE973A12D4D3766CAB /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CFNetwork.framework; sourceTree = DEVELOPER_DIR; };
 		D99BC2A3DB5CFBCF19E3079439A8F91E /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
+		DBDEC1A1C4EBC60ACD668B1FCEA2F1B7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		DC89CF692B1D9791BB9045438D4CE98A /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = "<group>"; };
 		DE9C8D54B53BC3C7DD2F596D428E72D9 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
-		E1F1948CA833C9E8B85928D643ED5B39 /* QMNetWorkRequest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = QMNetWorkRequest.modulemap; sourceTree = "<group>"; };
-		E40DCE5522E1134F5E20AAA947C57AB9 /* QMNetWorkRequest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QMNetWorkRequest-dummy.m"; sourceTree = "<group>"; };
 		E4A15D7C9158D0CB0AED2D846D420E59 /* YTKChainRequest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YTKChainRequest.h; path = YTKNetwork/YTKChainRequest.h; sourceTree = "<group>"; };
+		E5585BEC29932C6ACEE87381F2ECF421 /* QMNetWorkRequest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QMNetWorkRequest-prefix.pch"; sourceTree = "<group>"; };
 		E5A1C1912E64BE4B5C15BA22B95ACD31 /* AFNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AFNetworking-dummy.m"; sourceTree = "<group>"; };
 		EEFC33B804207FEC1287603979305279 /* AFURLSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = "<group>"; };
 		F154A0F6444361C91BC833F9566325F9 /* YTKChainRequestAgent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = YTKChainRequestAgent.h; path = YTKNetwork/YTKChainRequestAgent.h; sourceTree = "<group>"; };
@@ -251,6 +250,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		12DC1292692FD48ADDAF3FBAAA535B84 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				7BE3541F1593663D1AD0A6C2150250E2 /* QMNetWorkRequest.modulemap */,
+				05F9E7B5FF1FAE9DBAB1BAD8D0CF80A6 /* QMNetWorkRequest-dummy.m */,
+				A2F3E44A236F6B38F2B13642C55B31A1 /* QMNetWorkRequest-Info.plist */,
+				E5585BEC29932C6ACEE87381F2ECF421 /* QMNetWorkRequest-prefix.pch */,
+				5A7D9E736423C31175A3FCF27B299DC0 /* QMNetWorkRequest-umbrella.h */,
+				52367D6A46F21AB55B43B3C0150AFEA5 /* QMNetWorkRequest.debug.xcconfig */,
+				6DB301598672436988AE4B558EA06EB7 /* QMNetWorkRequest.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/QMNetWorkRequest";
+			sourceTree = "<group>";
+		};
 		1394985AF336BC3AB78E8C660E85E679 /* Pods-QMNetWorkRequest_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -293,16 +307,6 @@
 			path = "Target Support Files/Pods-QMNetWorkRequest_Tests";
 			sourceTree = "<group>";
 		};
-		3EEF708A5947C6C56A0A78EC2364C873 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				D1A139551706F66FA616428CF296467B /* LICENSE */,
-				0F9F0E10142B04E4573F300DAA89F67F /* QMNetWorkRequest.podspec */,
-				5BBB90D2DF32EC1A1C2DD07F154CFF8D /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		53CF8471D06DDB7DB0F2BEACB5DA9452 /* NSURLSession */ = {
 			isa = PBXGroup;
 			children = (
@@ -322,21 +326,6 @@
 				0AB21E998E7F45B096F8C10D73B0878E /* AFSecurityPolicy.m */,
 			);
 			name = Security;
-			sourceTree = "<group>";
-		};
-		66C74AD1BF95B1C79A09BBA5B1E7FA7B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				E1F1948CA833C9E8B85928D643ED5B39 /* QMNetWorkRequest.modulemap */,
-				E40DCE5522E1134F5E20AAA947C57AB9 /* QMNetWorkRequest-dummy.m */,
-				CA33660D1DB304F482D6BFFEF5D3EEBA /* QMNetWorkRequest-Info.plist */,
-				CFF3351A159FF31A9F8DF5C05656C078 /* QMNetWorkRequest-prefix.pch */,
-				C97DDA8A62DB84C6C3C0615FDA0E99CF /* QMNetWorkRequest-umbrella.h */,
-				5B997865831D636E9501212BD1CD3556 /* QMNetWorkRequest.debug.xcconfig */,
-				4F50E26C6866DE3666A12920B2E08D29 /* QMNetWorkRequest.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/QMNetWorkRequest";
 			sourceTree = "<group>";
 		};
 		674251B565FBD4FD8AFBC6D7201B8C6B /* Support Files */ = {
@@ -392,7 +381,7 @@
 		9D25417ECD548AB103E052779E500C1D /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D5120445CFAD6CF20003A9B18A565CC6 /* QMNetWorkRequest */,
+				C748811B35445D068D77758746ABBDE8 /* QMNetWorkRequest */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -431,8 +420,18 @@
 				D581FA3B36B5CB7157CBDFEEF1EB1109 /* YTKRequest.m */,
 				8952AA806B1FDF08C34E2C90BD8FAA72 /* Support Files */,
 			);
-			name = YTKNetwork;
 			path = YTKNetwork;
+			sourceTree = "<group>";
+		};
+		C748811B35445D068D77758746ABBDE8 /* QMNetWorkRequest */ = {
+			isa = PBXGroup;
+			children = (
+				7870FF8BC3DF11FD19C6CF21213C2474 /* ReplaceMe.swift */,
+				E93A5AD9A92F63A391DAFCC2C90FB268 /* Pod */,
+				12DC1292692FD48ADDAF3FBAAA535B84 /* Support Files */,
+			);
+			name = QMNetWorkRequest;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		C9DEEFCEFC3594D8CD3127A01C6976BB /* iOS */ = {
@@ -472,15 +471,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D5120445CFAD6CF20003A9B18A565CC6 /* QMNetWorkRequest */ = {
+		E93A5AD9A92F63A391DAFCC2C90FB268 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				C561D35A7FAC2F7532CB323A5F5527E5 /* ReplaceMe.swift */,
-				3EEF708A5947C6C56A0A78EC2364C873 /* Pod */,
-				66C74AD1BF95B1C79A09BBA5B1E7FA7B /* Support Files */,
+				DBDEC1A1C4EBC60ACD668B1FCEA2F1B7 /* LICENSE */,
+				5A0728CE9CBF5153A307AF8B0A864D01 /* QMNetWorkRequest.podspec */,
 			);
-			name = QMNetWorkRequest;
-			path = ../..;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		FA07D089EFC9217ABBF4158ECAE9004E /* AFNetworking */ = {
@@ -492,7 +489,6 @@
 				94F2726AF59E521F668BF52751006FC9 /* Serialization */,
 				674251B565FBD4FD8AFBC6D7201B8C6B /* Support Files */,
 			);
-			name = AFNetworking;
 			path = AFNetworking;
 			sourceTree = "<group>";
 		};
@@ -899,7 +895,7 @@
 		};
 		0E30B95275171598ECA4625D01034F7B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4F50E26C6866DE3666A12920B2E08D29 /* QMNetWorkRequest.release.xcconfig */;
+			baseConfigurationReference = 6DB301598672436988AE4B558EA06EB7 /* QMNetWorkRequest.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1029,7 +1025,7 @@
 		};
 		5891CB3C46239350CA72FD7A8CCB1C1A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B997865831D636E9501212BD1CD3556 /* QMNetWorkRequest.debug.xcconfig */;
+			baseConfigurationReference = 52367D6A46F21AB55B43B3C0150AFEA5 /* QMNetWorkRequest.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1176,9 +1172,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 5.0;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -1242,7 +1237,7 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
