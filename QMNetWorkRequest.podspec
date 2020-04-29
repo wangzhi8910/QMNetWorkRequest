@@ -31,8 +31,9 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'QMNetWorkRequest/Classes/**/*'
-
+  s.swift_version = '4.0'
   s.dependency 'YTKNetwork', '~> 2.1.4'
+  
   
   # s.resource_bundles = {
   #   'QMNetWorkRequest' => ['QMNetWorkRequest/Assets/*.png']
