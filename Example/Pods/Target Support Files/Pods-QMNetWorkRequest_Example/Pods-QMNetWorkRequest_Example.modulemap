@@ -1,4 +1,4 @@
-framework module Pods_QMNetWorkRequest_Example {
+module Pods_QMNetWorkRequest_Example {
   umbrella header "Pods-QMNetWorkRequest_Example-umbrella.h"
 
   export *
